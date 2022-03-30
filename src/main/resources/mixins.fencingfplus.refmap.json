@@ -1,0 +1,22 @@
+{
+  "mappings": {
+    "org/fenci/fencingfplus2/mixin/mixins/MixinNetworkManager": {
+      "sendPacket(Lnet/minecraft/network/Packet;)V": "Lnet/minecraft/network/NetworkManager;func_179290_a(Lnet/minecraft/network/Packet;)V",
+      "channelRead0*": "Lnet/minecraft/network/NetworkManager;channelRead0(Lio/netty/channel/ChannelHandlerContext;Lnet/minecraft/network/Packet;)V"
+    },
+    "org/fenci/fencingfplus2/mixin/mixins/accessor/IMinecraftMixin": {
+      "rightClickDelayTimer": "field_71467_ac:I"
+    }
+  },
+  "data": {
+    "searge": {
+      "org/fenci/fencingfplus2/mixin/mixins/MixinNetworkManager": {
+        "sendPacket(Lnet/minecraft/network/Packet;)V": "Lnet/minecraft/network/NetworkManager;func_179290_a(Lnet/minecraft/network/Packet;)V",
+        "channelRead0*": "Lnet/minecraft/network/NetworkManager;channelRead0(Lio/netty/channel/ChannelHandlerContext;Lnet/minecraft/network/Packet;)V"
+      },
+      "org/fenci/fencingfplus2/mixin/mixins/accessor/IMinecraftMixin": {
+        "rightClickDelayTimer": "field_71467_ac:I"
+      }
+    }
+  }
+}

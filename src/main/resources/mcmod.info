@@ -1,0 +1,21 @@
+[
+  {
+    "modid": "fencingfplustwo",
+    "name": "FencingF+2",
+    "description": "A Minecraft Anarchy Utility Mod by FencingF, Flixzit, AndrewMCPE12 and Perry.",
+    "version": "1.9.2",
+    "mcversion": "1.12.2",
+    "url": "https://discord.gg/MbKNU3276H",
+    "updateUrl": "",
+    "authorList": [
+      "FencingF",
+      "Flixzit",
+      "AndrewMCPE12",
+      "Perry."
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

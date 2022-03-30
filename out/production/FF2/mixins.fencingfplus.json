@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "org.fenci.fencingfplus2.mixin.mixins",
+  "refmap": "mixins.fencingfplus.refmap.json",
+  "minVersion": "0.7.4",
+  "mixins": [
+    "MixinNetworkManager",
+    "accessor.IMinecraftMixin"
+  ]
+}
